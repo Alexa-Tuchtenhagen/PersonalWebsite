@@ -78,6 +78,7 @@ function App() {
 
           {/* Hero subheading */}
           <p className="text-lg md:text-xl text-stone-200 mb-12 font-light max-w-2xl mx-auto">
+          {/*Edit Here*/}
            Placeholder
           </p>
 
@@ -105,9 +106,11 @@ function App() {
 
             {/* About paragraphs */}
             <p className="text-stone-600 leading-relaxed mb-6">
+              {/*Edit Here*/}
               Placeholder Paragraph 1
             </p>
             <p className="text-stone-600 leading-relaxed mb-8">
+              {/*Edit Here*/}
               Placeholder Paragraph 2
             </p>
 
@@ -148,6 +151,7 @@ function App() {
               Skills & Expertise
             </h2>
             <p className="text-stone-600 max-w-2xl mx-auto">
+              {/*Edit Here*/}
               Placeholder
             </p>
           </div>
@@ -158,18 +162,24 @@ function App() {
             {[
               {
                 icon: Code,
+                /*Edit Here*/
                 title: 'Development',
+                /*Edit Here*/
                 skills: ['Hold']
               },
               {
                 icon: Palette,
+                /*Edit Here*/
                 title: 'Design',
+                /*Edit Here*/
                 skills: ['Hold']
               },
               {
                 icon: GraduationCap,
+                /*Edit Here*/
                 title: 'Learning',
-                skills: ['Hold']
+                /*Edit Here*/
+                skills: ['Hold', 'Hold']
               }
             ].map((category, idx) => {
               // Extract the icon component from the category object
@@ -213,6 +223,7 @@ function App() {
               My Work
             </h2>
             <p className="text-stone-600 max-w-2xl mx-auto mb-12">
+              {/*Edit Here*/}
               A selection of my projects and degree requirements
             </p>
 
@@ -262,18 +273,21 @@ function App() {
             {/* Array of project data */}
             {[
               {
+                /*Edit Here*/
                 title: 'Project Name 1',
                 description: 'A brief description of what this project does and the technologies used. Highlight the problem solved and your role.',
                 tags: ['React', 'TypeScript', 'Tailwind'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
               },
               {
+                /*Edit Here*/
                 title: 'Project Name 2',
                 description: 'Another project showcasing different skills. Explain the challenge, your approach, and the outcome.',
                 tags: ['Node.js', 'MongoDB', 'Express'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
               },
               {
+                /*Edit Here*/
                 title: 'Project Name 3',
                 description: 'A creative project demonstrating design skills and technical implementation. Discuss what you learned.',
                 tags: ['UI/UX', 'Figma', 'React'],
@@ -343,27 +357,57 @@ function App() {
               {[
                 {
                   number: 1,
-                  title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.'
+                  title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.',
+                  /*Edit Here*/
+                  projects: [
+                    { name: 'Project 1-A Name', description: 'Description for objective 1, project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
+                    { name: 'Project 1-B Name', description: 'Description for objective 1, project B', codeUrl: 'https://github.com/yourusername/project1b', linkUrl: 'https://example.com/project1b' }
+                  ]
                 },
                 {
                   number: 2,
-                  title: 'Demonstrate embedded microprocessor system and circuit skills.'
+                  title: 'Demonstrate embedded microprocessor system and circuit skills.',
+                  /*Edit Here*/
+                  projects: [
+                    { name: 'Project 2-A Name', description: 'Description for objective 2, project A', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: 'https://example.com/project2a' },
+                    { name: 'Project 2-B Name', description: 'Description for objective 2, project B', codeUrl: 'https://github.com/yourusername/project2b', linkUrl: 'https://example.com/project2b' }
+                  ]
                 },
                 {
                   number: 3,
-                  title: 'Develop mechanical control systems by implementing transducers, actuators, feedback, vision and sensing systems, and other mechanical systems into robotic platforms.'
+                  title: 'Develop mechanical control systems by implementing transducers, actuators, feedback, vision and sensing systems, and other mechanical systems into robotic platforms.',
+                  /*Edit Here*/
+                  projects: [
+                    { name: 'Project 3-A Name', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/yourusername/project3a', linkUrl: 'https://example.com/project3a' },
+                    { name: 'Project 3-B Name', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/yourusername/project3b', linkUrl: 'https://example.com/project3b' }
+                  ]
                 },
                 {
                   number: 4,
-                  title: 'Examine and assess a variety of applications within the field of robotics.'
+                  title: 'Examine and assess a variety of applications within the field of robotics.',
+                  /*Edit Here*/
+                  projects: [
+                    { name: 'Project 4-A Name', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/yourusername/project4a', linkUrl: 'https://example.com/project4a' },
+                    { name: 'Project 4-B Name', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/yourusername/project4b', linkUrl: 'https://example.com/project4b' }
+                  ]
                 },
                 {
                   number: 5,
-                  title: 'Model, analyze, and design systems or processes that integrate hardware and software to control autonomous mechanical systems.'
+                  title: 'Model, analyze, and design systems or processes that integrate hardware and software to control autonomous mechanical systems.',
+                  /*Edit Here*/
+                  projects: [
+                    { name: 'Project 5-A Name', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/yourusername/project5a', linkUrl: 'https://example.com/project5a' },
+                    { name: 'Project 5-B Name', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b' }
+                  ]
                 },
                 {
                   number: 6,
-                  title: 'Implement artificial intelligence and data systems into robotic platforms.'
+                  title: 'Implement artificial intelligence and data systems into robotic platforms.',
+                  /*Edit Here*/
+                  projects: [
+                    { name: 'Project 6-A Name', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/yourusername/project6a', linkUrl: 'https://example.com/project6a' },
+                    { name: 'Project 6-B Name', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
+                  ]
                 }
               ].map((objective) => (
                 // Objective card
@@ -382,49 +426,39 @@ function App() {
 
                   {/* Two projects per objective - displayed in a grid */}
                   <div className="grid md:grid-cols-2 gap-6 ml-16">
-                    {/* Project 1 card */}
-                    <div className="bg-white p-6 border border-stone-200">
-                      <h4 className="text-sm tracking-wider text-stone-500 mb-2">PROJECT 1</h4>
-                      {/* Project name - edit this text */}
-                      <h5 className="text-lg font-light text-stone-800 mb-3">Project Name Here</h5>
-                      {/* Project description - edit this text */}
-                      <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                        Project description goes here. Explain what the project does and how it addresses the objective.
-                      </p>
-                      {/* Code and Video link buttons */}
-                      <div className="flex gap-3">
-                        <button className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors">
-                          <Code size={16} />
-                          Code
-                        </button>
-                        <button className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors">
-                          <Video size={16} />
-                          Video
-                        </button>
+                    {/* Map through the projects array for this objective */}
+                    {objective.projects.map((project, projectIdx) => (
+                      <div key={projectIdx} className="bg-white p-6 border border-stone-200">
+                        <h4 className="text-sm tracking-wider text-stone-500 mb-2">PROJECT {projectIdx + 1}</h4>
+                        {/* Project name - edit this text in the data array above */}
+                        <h5 className="text-lg font-light text-stone-800 mb-3">{project.name}</h5>
+                        {/* Project description - edit this text in the data array above */}
+                        <p className="text-stone-600 text-sm leading-relaxed mb-4">
+                          {project.description}
+                        </p>
+                        {/* Code and Link buttons with placeholder URLs */}
+                        <div className="flex gap-3">
+                          <a
+                            href={project.codeUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors"
+                          >
+                            <Code size={16} />
+                            Code
+                          </a>
+                          <a
+                            href={project.linkUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors"
+                          >
+                            <ExternalLink size={16} />
+                            Link
+                          </a>
+                        </div>
                       </div>
-                    </div>
-
-                    {/* Project 2 card */}
-                    <div className="bg-white p-6 border border-stone-200">
-                      <h4 className="text-sm tracking-wider text-stone-500 mb-2">PROJECT 2</h4>
-                      {/* Project name - edit this text */}
-                      <h5 className="text-lg font-light text-stone-800 mb-3">Project Name Here</h5>
-                      {/* Project description - edit this text */}
-                      <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                        Project description goes here. Explain what the project does and how it addresses the objective.
-                      </p>
-                      {/* Code and Video link buttons */}
-                      <div className="flex gap-3">
-                        <button className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors">
-                          <Code size={16} />
-                          Code
-                        </button>
-                        <button className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors">
-                          <Video size={16} />
-                          Video
-                        </button>
-                      </div>
-                    </div>
+                    ))}
                   </div>
                 </div>
               ))}
@@ -438,25 +472,42 @@ function App() {
               <h3 className="text-3xl font-light text-stone-800 mb-4">Senior Innovation Project</h3>
               {/* SIP description */}
               <p className="text-stone-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-                Placeholder
+                {/*Edit Here*/}
+                Details about your SIP will be displayed here.
               </p>
               {/* SIP action buttons */}
               <div className="flex gap-4 justify-center">
                 {/* Code link button */}
-                <button className="flex items-center gap-2 px-6 py-3 bg-sage-600 hover:bg-sage-700 text-white text-sm tracking-wider transition-colors">
+                <a
+                  /*Edit Here*/
+                  href="https://github.com/yourusername/sip-project"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 px-6 py-3 bg-sage-600 hover:bg-sage-700 text-white text-sm tracking-wider transition-colors"
+                >
                   <Code size={18} />
                   View Code
-                </button>
+                </a>
                 {/* Video link button */}
-                <button className="flex items-center gap-2 px-6 py-3 bg-sage-600 hover:bg-sage-700 text-white text-sm tracking-wider transition-colors">
+                <a
+                  href="https://example.com/sip-video"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 px-6 py-3 bg-sage-600 hover:bg-sage-700 text-white text-sm tracking-wider transition-colors"
+                >
                   <Video size={18} />
                   Watch Video
-                </button>
+                </a>
                 {/* Documentation link button */}
-                <button className="flex items-center gap-2 px-6 py-3 bg-sage-600 hover:bg-sage-700 text-white text-sm tracking-wider transition-colors">
+                <a
+                  href="https://example.com/sip-documentation"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 px-6 py-3 bg-sage-600 hover:bg-sage-700 text-white text-sm tracking-wider transition-colors"
+                >
                   <ExternalLink size={18} />
                   View Documentation
-                </button>
+                </a>
               </div>
             </div>
           )}
