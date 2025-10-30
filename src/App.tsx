@@ -1,4 +1,4 @@
-// Import necessary icons and React hooks
+// Import necessary icons and React hooks l
 import { Menu, X, ChevronRight, Mail, Github, Linkedin, GraduationCap, Code, Palette, ExternalLink, Video } from 'lucide-react';
 import { useState } from 'react';
 
