@@ -369,7 +369,7 @@ function App() {
                   title: 'Demonstrate embedded microprocessor system and circuit skills.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Find Beauty in Everything...', description: 'Description for objective 2, project A', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: 'https://example.com/project2a' },
+                    { name: 'Find Beauty in Everything...', description: 'Description for objective 2, project A', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: '/Find Beauty in Everything....pdf' },
                     { name: 'Gosh Darn It', description: 'Description for objective 2, project B', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project2b' }
                   ]
                 },
