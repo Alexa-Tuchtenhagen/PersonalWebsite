@@ -274,21 +274,21 @@ function App() {
             {[
               {
                 /*Edit Here*/
-                title: 'Project Name 1',
+                title: 'Find Beauty in Everything...',
                 description: 'A brief description of what this project does and the technologies used. Highlight the problem solved and your role.',
                 tags: ['React', 'TypeScript', 'Tailwind'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
               },
               {
                 /*Edit Here*/
-                title: 'Project Name 2',
+                title: 'Oscar',
                 description: 'Another project showcasing different skills. Explain the challenge, your approach, and the outcome.',
                 tags: ['Node.js', 'MongoDB', 'Express'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
               },
               {
                 /*Edit Here*/
-                title: 'Project Name 3',
+                title: 'Fenris',
                 description: 'A creative project demonstrating design skills and technical implementation. Discuss what you learned.',
                 tags: ['UI/UX', 'Figma', 'React'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
