@@ -361,7 +361,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Robotic Arms', description: 'Description for objective 1, project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
-                    { name: 'VEXU Ring Bot', description: 'Description for objective 1, project B', codeUrl: 'https://github.com/yourusername/project1b', linkUrl: 'https://example.com/project1b' }
+                    { name: 'VEXU Ring Bot', description: 'Description for objective 1, project B', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'https://example.com/project1b' }
                   ]
                 },
                 {
@@ -387,7 +387,7 @@ function App() {
                   title: 'Examine and assess a variety of applications within the field of robotics.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'VEXU Climb Bot', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/yourusername/project4a', linkUrl: 'https://example.com/project4a' },
+                    { name: 'VEXU Climb Bot', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: 'https://example.com/project4a' },
                     { name: '8 Bit Adder', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/yourusername/project4b', linkUrl: 'https://example.com/project4b' }
                   ]
                 },
