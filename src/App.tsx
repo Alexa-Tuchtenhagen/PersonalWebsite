@@ -379,7 +379,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/yourusername/project3a', linkUrl: 'https://example.com/project3a' },
-                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/yourusername/project3b', linkUrl: 'https://example.com/project3b' }
+                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b' }
                   ]
                 },
                 {
