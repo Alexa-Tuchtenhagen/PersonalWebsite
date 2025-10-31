@@ -360,8 +360,8 @@ function App() {
                   title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Project 1-A Name', description: 'Description for objective 1, project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
-                    { name: 'Project 1-B Name', description: 'Description for objective 1, project B', codeUrl: 'https://github.com/yourusername/project1b', linkUrl: 'https://example.com/project1b' }
+                    { name: 'Robotic Arms', description: 'Description for objective 1, project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
+                    { name: 'VEXU Ring Bot', description: 'Description for objective 1, project B', codeUrl: 'https://github.com/yourusername/project1b', linkUrl: 'https://example.com/project1b' }
                   ]
                 },
                 {
@@ -369,8 +369,8 @@ function App() {
                   title: 'Demonstrate embedded microprocessor system and circuit skills.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Project 2-A Name', description: 'Description for objective 2, project A', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: 'https://example.com/project2a' },
-                    { name: 'Project 2-B Name', description: 'Description for objective 2, project B', codeUrl: 'https://github.com/yourusername/project2b', linkUrl: 'https://example.com/project2b' }
+                    { name: 'Find Beauty in Everything...', description: 'Description for objective 2, project A', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: 'https://example.com/project2a' },
+                    { name: 'Gosh Darn It', description: 'Description for objective 2, project B', codeUrl: 'https://github.com/yourusername/project2b', linkUrl: 'https://example.com/project2b' }
                   ]
                 },
                 {
@@ -378,8 +378,8 @@ function App() {
                   title: 'Develop mechanical control systems by implementing transducers, actuators, feedback, vision and sensing systems, and other mechanical systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Project 3-A Name', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/yourusername/project3a', linkUrl: 'https://example.com/project3a' },
-                    { name: 'Project 3-B Name', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/yourusername/project3b', linkUrl: 'https://example.com/project3b' }
+                    { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/yourusername/project3a', linkUrl: 'https://example.com/project3a' },
+                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/yourusername/project3b', linkUrl: 'https://example.com/project3b' }
                   ]
                 },
                 {
@@ -387,8 +387,8 @@ function App() {
                   title: 'Examine and assess a variety of applications within the field of robotics.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Project 4-A Name', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/yourusername/project4a', linkUrl: 'https://example.com/project4a' },
-                    { name: 'Project 4-B Name', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/yourusername/project4b', linkUrl: 'https://example.com/project4b' }
+                    { name: 'VEXU Climb Bot', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/yourusername/project4a', linkUrl: 'https://example.com/project4a' },
+                    { name: '8 Bit Adder', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/yourusername/project4b', linkUrl: 'https://example.com/project4b' }
                   ]
                 },
                 {
@@ -396,8 +396,8 @@ function App() {
                   title: 'Model, analyze, and design systems or processes that integrate hardware and software to control autonomous mechanical systems.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Project 5-A Name', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/yourusername/project5a', linkUrl: 'https://example.com/project5a' },
-                    { name: 'Project 5-B Name', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b' }
+                    { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/yourusername/project5a', linkUrl: 'https://example.com/project5a' },
+                    { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b' }
                   ]
                 },
                 {
@@ -405,8 +405,8 @@ function App() {
                   title: 'Implement artificial intelligence and data systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Project 6-A Name', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/yourusername/project6a', linkUrl: 'https://example.com/project6a' },
-                    { name: 'Project 6-B Name', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
+                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/yourusername/project6a', linkUrl: 'https://example.com/project6a' },
+                    { name: 'TBD', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
                   ]
                 }
               ].map((objective) => (
