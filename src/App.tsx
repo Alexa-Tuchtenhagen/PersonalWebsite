@@ -282,7 +282,7 @@ function App() {
               {
                 /*Edit Here*/
                 title: 'Oscar',
-                description: 'Oscar is team 3294's 2023 robot for the FIRST Robotics Competition: Charged Up. With a powerful drive system and a reliable arm, Oscar could grab cones and cubes and score them smoothly, playing a key role in our team’s success.',
+                description: 'Oscar is team 3294s 2023 robot for the FIRST Robotics Competition: Charged Up. With a powerful drive system and a reliable arm, Oscar could grab cones and cubes and score them smoothly, playing a key role in our team’s success.',
                 tags: ['Node.js', 'MongoDB', 'Express'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
               },
