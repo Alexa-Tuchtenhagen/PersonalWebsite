@@ -275,7 +275,7 @@ function App() {
               {
                 /*Edit Here*/
                 title: 'Find Beauty in Everything...',
-                description: 'A brief description of what this project does and the technologies used. Highlight the problem solved and your role.',
+                description: 'Find Beauty in Everything is a robotic butterfly designed to offer warmth, calm, and emotional comfort to hospice patients. It serves as a gentle reminder that even in life’s final chapter, beauty still finds us — in light, in movement, and in the quiet presence of care.',
                 tags: ['React', 'TypeScript', 'Tailwind'],
                 image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
               },
