@@ -405,7 +405,7 @@ function App() {
                   title: 'Implement artificial intelligence and data systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/yourusername/project6a', linkUrl: 'https://example.com/project6a' },
+                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project6a' },
                     { name: 'TBD', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
                   ]
                 }
