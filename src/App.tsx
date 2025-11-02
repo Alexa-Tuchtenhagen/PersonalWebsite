@@ -111,7 +111,7 @@ function App() {
             </p>
             <p className="text-stone-600 leading-relaxed mb-8">
               {/*Edit Here*/}
-              Placeholder Paragraph 2
+              I’m passionate about technology that supports people — especially the ones who’ve made a meaningful impact on my life. Some of my favorite projects are deeply personal, like Find Beauty in Everything…, a robotic butterfly inspired by my mom, who works as a hospice nurse. Her compassion and strength motivate me to create devices that bring comfort, spark emotion, and create moments of peace and connection through robotics and thoughtful design.
             </p>
 
             {/* Social media links */}
