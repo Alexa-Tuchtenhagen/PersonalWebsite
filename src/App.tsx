@@ -79,7 +79,7 @@ function App() {
           {/* Hero subheading */}
           <p className="text-lg md:text-xl text-stone-200 mb-12 font-light max-w-2xl mx-auto">
           {/*Edit Here*/}
-           Placeholder
+           Invent with kindness. Build with strength.
           </p>
 
           {/* Call to action button - scrolls to work section */}
