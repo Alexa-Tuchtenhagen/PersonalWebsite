@@ -107,7 +107,7 @@ function App() {
             {/* About paragraphs */}
             <p className="text-stone-600 leading-relaxed mb-6">
               {/*Edit Here*/}
-              Placeholder Paragraph 1
+              Hi, I’m Alexa Tuchtenhagen — a robotics engineering student who believes engineering is a blend of creativity, curiosity, and hands-on problem-solving. I love bringing ideas to life through mechanical design, electronics, and fabrication, whether that means CNC machining parts, shaping materials, or building unique interactive devices.
             </p>
             <p className="text-stone-600 leading-relaxed mb-8">
               {/*Edit Here*/}
