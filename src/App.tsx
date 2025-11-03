@@ -152,7 +152,12 @@ function App() {
             </h2>
             <p className="text-stone-600 max-w-2xl mx-auto">
               {/*Edit Here*/}
-              Placeholder
+              Fusion360
+              3D Printing
+              CNCing
+              Metal Work
+              Electrical work
+              
             </p>
           </div>
 
@@ -360,8 +365,8 @@ function App() {
                   title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Robotic Arms', description: 'Description for objective 1, project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
-                    { name: 'VEXU Ring Bot', description: 'Description for objective 1, project B', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'https://example.com/project1b' }
+                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control., project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
+                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'https://example.com/project1b' }
                   ]
                 },
                 {
@@ -369,7 +374,7 @@ function App() {
                   title: 'Demonstrate embedded microprocessor system and circuit skills.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Find Beauty in Everything...', description: 'Description for objective 2, project A', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: '/Find Beauty in Everything....pdf' },
+                    { name: 'Find Beauty in Everything...', description: 'Find Beauty in Everything... is a robotic art piece powered by an embedded microcontroller. I programmed and wired the system to control gentle wing-flapping motion alongside a soft constant light, creating a peaceful physical representation of calming emotion. This project highlights my embedded programming and circuit integration skills in an expressive design context.', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: '/Find Beauty in Everything....pdf' },
                     { name: 'Gosh Darn It', description: 'Description for objective 2, project B', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf' }
                   ]
                 },
@@ -406,7 +411,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project6a' },
-                    { name: 'TBD', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
+                    { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
                   ]
                 }
               ].map((objective) => (
