@@ -365,8 +365,8 @@ function App() {
                   title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control., project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a' },
-                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'https://example.com/project1b' }
+                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control., project A', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'https://example.com/project1b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
                 {
@@ -374,8 +374,8 @@ function App() {
                   title: 'Demonstrate embedded microprocessor system and circuit skills.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Find Beauty in Everything...', description: 'Find Beauty in Everything... is a robotic art piece powered by an embedded microcontroller. I programmed and wired the system to control gentle wing-flapping motion alongside a soft constant light, creating a peaceful physical representation of calming emotion. This project highlights my embedded programming and circuit integration skills in an expressive design context.', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: '/Find Beauty in Everything....pdf' },
-                    { name: 'Gosh Darn It', description: 'Gosh Darn It is a custom M5Core2-based controller with buttons and LEDs used to log professor catch-phrases and upload data to ThingSpeak. I designed the 3D enclosure, wired the interface hardware, and contributed early code for button inputs, LED control, and display behavior.', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf' }
+                    { name: 'Find Beauty in Everything...', description: 'Find Beauty in Everything... is a robotic art piece powered by an embedded microcontroller. I programmed and wired the system to control gentle wing-flapping motion alongside a soft constant light, creating a peaceful physical representation of calming emotion. This project highlights my embedded programming and circuit integration skills in an expressive design context.', codeUrl: 'https://github.com/yourusername/project2a', linkUrl: '/Find Beauty in Everything....pdf', image: '/butterfly.jpg' },
+                    { name: 'Gosh Darn It', description: 'Gosh Darn It is a custom M5Core2-based controller with buttons and LEDs used to log professor catch-phrases and upload data to ThingSpeak. I designed the 3D enclosure, wired the interface hardware, and contributed early code for button inputs, LED control, and display behavior.', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
                 {
@@ -383,8 +383,8 @@ function App() {
                   title: 'Develop mechanical control systems by implementing transducers, actuators, feedback, vision and sensing systems, and other mechanical systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/yourusername/project3a', linkUrl: 'https://example.com/project3a' },
-                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b' }
+                    { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/yourusername/project3a', linkUrl: 'https://example.com/project3a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
                 {
@@ -392,8 +392,8 @@ function App() {
                   title: 'Examine and assess a variety of applications within the field of robotics.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'VEXU Climb Bot', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: 'https://example.com/project4a' },
-                    { name: '8 Bit Adder', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/yourusername/project4b', linkUrl: 'https://example.com/project4b' }
+                    { name: 'VEXU Climb Bot', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: 'https://example.com/project4a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: '8 Bit Adder', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/yourusername/project4b', linkUrl: 'https://example.com/project4b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
                 {
@@ -401,8 +401,8 @@ function App() {
                   title: 'Model, analyze, and design systems or processes that integrate hardware and software to control autonomous mechanical systems.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/yourusername/project5a', linkUrl: 'https://example.com/project5a' },
-                    { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b' }
+                    { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/yourusername/project5a', linkUrl: 'https://example.com/project5a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
                 {
@@ -410,8 +410,8 @@ function App() {
                   title: 'Implement artificial intelligence and data systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project6a' },
-                    { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b' }
+                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project6a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 }
               ].map((objective) => (
@@ -433,34 +433,39 @@ function App() {
                   <div className="grid md:grid-cols-2 gap-6 ml-16">
                     {/* Map through the projects array for this objective */}
                     {objective.projects.map((project, projectIdx) => (
-                      <div key={projectIdx} className="bg-white p-6 border border-stone-200">
-                        <h4 className="text-sm tracking-wider text-stone-500 mb-2">PROJECT {projectIdx + 1}</h4>
-                        {/* Project name - edit this text in the data array above */}
-                        <h5 className="text-lg font-light text-stone-800 mb-3">{project.name}</h5>
-                        {/* Project description - edit this text in the data array above */}
-                        <p className="text-stone-600 text-sm leading-relaxed mb-4">
-                          {project.description}
-                        </p>
-                        {/* Code and Link buttons with placeholder URLs */}
-                        <div className="flex gap-3">
-                          <a
-                            href={project.codeUrl}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors"
-                          >
-                            <Code size={16} />
-                            Code
-                          </a>
-                          <a
-                            href={project.linkUrl}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors"
-                          >
-                            <ExternalLink size={16} />
-                            Link
-                          </a>
+                      <div key={projectIdx} className="bg-white border border-stone-200 overflow-hidden hover:shadow-lg transition-shadow duration-300">
+                        <div className="relative h-48 overflow-hidden">
+                          <div
+                            className="absolute inset-0 bg-cover bg-center transition-transform duration-500 hover:scale-105"
+                            style={{ backgroundImage: `url(${project.image})` }}
+                          />
+                        </div>
+                        <div className="p-6">
+                          <h4 className="text-sm tracking-wider text-stone-500 mb-2">PROJECT {projectIdx + 1}</h4>
+                          <h5 className="text-lg font-light text-stone-800 mb-3">{project.name}</h5>
+                          <p className="text-stone-600 text-sm leading-relaxed mb-4">
+                            {project.description}
+                          </p>
+                          <div className="flex gap-3">
+                            <a
+                              href={project.codeUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors"
+                            >
+                              <Code size={16} />
+                              Code
+                            </a>
+                            <a
+                              href={project.linkUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="flex items-center gap-2 px-4 py-2 bg-stone-100 hover:bg-stone-200 text-stone-700 text-sm transition-colors"
+                            >
+                              <ExternalLink size={16} />
+                              Link
+                            </a>
+                          </div>
                         </div>
                       </div>
                     ))}
