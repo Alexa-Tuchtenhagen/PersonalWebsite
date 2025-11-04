@@ -365,7 +365,7 @@ function App() {
                   title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control.', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: 'https://example.com/project1a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control.', codeUrl: 'https://github.com/yourusername/project1a', linkUrl: '/Robotic Arms.pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
                     { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'https://example.com/project1b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
@@ -411,7 +411,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project6a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
-                    { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: 'https://example.com/project6b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
+                    { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://github.com/yourusername/project6b', linkUrl: '/Robotic Arms.pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 }
               ].map((objective) => (
