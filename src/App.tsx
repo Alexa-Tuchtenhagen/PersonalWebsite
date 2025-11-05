@@ -393,7 +393,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'VEXU Climb Bot', description: 'Description for objective 4, project A', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: '/VEXU Climb Bot.pdf', image: '/Climb Bot.jpeg' },
-                    { name: 'CNC', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/CNC/blob/main/1001.nc', linkUrl: 'https://example.com/project4b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
+                    { name: 'CNC', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/CNC/blob/main/1001.nc', linkUrl: 'https://example.com/project4b', image: '/CNC.jpeg' }
                   ]
                 },
                 {
