@@ -383,7 +383,7 @@ function App() {
                   title: 'Develop mechanical control systems by implementing transducers, actuators, feedback, vision and sensing systems, and other mechanical systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: '/Provost.jpeg' },
                     { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: '/Oscar.jpeg' }
                   ]
                 },
@@ -401,7 +401,7 @@ function App() {
                   title: 'Model, analyze, and design systems or processes that integrate hardware and software to control autonomous mechanical systems.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: '/Provost.jpeg' },
                     { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
