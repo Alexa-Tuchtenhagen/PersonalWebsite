@@ -410,8 +410,8 @@ function App() {
                   title: 'Implement artificial intelligence and data systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf', image: '/Gosh Darn it.jpg' },
-                    { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://huggingface.co/docs/lerobot/en/koch', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' }
+                    { name: 'Gosh Darn It', description: 'Our team built Gosh Darn It, a controller system that tracks professor catch-phrases, records user input, and sends the data to ThingSpeak for analysis and visualization, demonstrating AI and data system integration in a robotic platform.', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf', image: '/Gosh Darn it.jpg' },
+                    { name: 'Robotic Arms', description: 'Our team built Robotic Arms, a dual-arm system that mirrors and records arm movements, demonstrating data-driven control and motion replication in an embedded robotics platform.', codeUrl: 'https://huggingface.co/docs/lerobot/en/koch', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' }
                   ]
                 }
               ].map((objective) => (
