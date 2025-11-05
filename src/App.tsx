@@ -289,7 +289,7 @@ function App() {
                 title: 'Oscar',
                 description: 'Oscar is team 3294s 2023 robot for the FIRST Robotics Competition: Charged Up. With a powerful drive system and a reliable arm, Oscar could grab cones and cubes and score them smoothly, playing a key role in our team’s success.',
                 tags: ['Node.js', 'MongoDB', 'Express'],
-                image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
+                image: '/Oscar.jpeg'
               },
               {
                 /*Edit Here*/
@@ -384,7 +384,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
-                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
+                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: 'public/Oscar.jpeg' }
                   ]
                 },
                 {
