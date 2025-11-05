@@ -366,7 +366,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control.', codeUrl: 'https://huggingface.co/docs/lerobot/en/koch', linkUrl: '/Robotic Arms.pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
-                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'public/VEXU Ring Bot.pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
+                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: 'public/VEXU Ring Bot.pdf', image: '/Ring Bot.jpeg' }
                   ]
                 },
                 {
@@ -384,7 +384,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Provost Cat Feeder', description: 'Description for objective 3, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
-                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: 'public/Oscar.jpeg' }
+                    { name: 'Oscar', description: 'Description for objective 3, project B', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: '/Oscar.jpeg' }
                   ]
                 },
                 {
