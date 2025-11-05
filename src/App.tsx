@@ -282,7 +282,7 @@ function App() {
                 title: 'Find Beauty in Everything...',
                 description: 'Find Beauty in Everything is a robotic butterfly designed to offer warmth, calm, and emotional comfort to hospice patients. It serves as a gentle reminder that even in life’s final chapter, beauty still finds us — in light, in movement, and in the quiet presence of care.',
                 tags: ['React', 'TypeScript', 'Tailwind'],
-                image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
+                image: '/FBE.jpeg'
               },
               {
                 /*Edit Here*/
@@ -374,7 +374,7 @@ function App() {
                   title: 'Demonstrate embedded microprocessor system and circuit skills.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Find Beauty in Everything...', description: 'Find Beauty in Everything... is a robotic art piece powered by an embedded microcontroller. I programmed and wired the system to control gentle wing-flapping motion alongside a soft constant light, creating a peaceful physical representation of calming emotion. This project highlights my embedded programming and circuit integration skills in an expressive design context.', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/FBE.../tree/main', linkUrl: '/Find Beauty in Everything....pdf', image: '/butterfly.jpg' },
+                    { name: 'Find Beauty in Everything...', description: 'Find Beauty in Everything... is a robotic art piece powered by an embedded microcontroller. I programmed and wired the system to control gentle wing-flapping motion alongside a soft constant light, creating a peaceful physical representation of calming emotion. This project highlights my embedded programming and circuit integration skills in an expressive design context.', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/FBE.../tree/main', linkUrl: '/Find Beauty in Everything....pdf', image: '/FBE.jpeg' },
                     { name: 'Gosh Darn It', description: 'Gosh Darn It is a custom M5Core2-based controller with buttons and LEDs used to log professor catch-phrases and upload data to ThingSpeak. I designed the 3D enclosure, wired the interface hardware, and contributed early code for button inputs, LED control, and display behavior.', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 },
