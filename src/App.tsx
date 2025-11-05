@@ -401,7 +401,7 @@ function App() {
                   title: 'Model, analyze, and design systems or processes that integrate hardware and software to control autonomous mechanical systems.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: '/Provost.jpeg' },
+                    { name: 'Provost Cat Feeder', description: 'The Provost Cat Feeder is an autonomous feeding system designed by our team to serve our campus cat, Max, while protecting his food from weather and critters. We integrated an Arduino Uno, ultrasonic sensor, and servo into a 3D-printed enclosure, creating a system that detects when Max approaches and automatically opens the feeding compartment. This project models and implements a complete hardware-software control system, combining sensing, actuation, and programmed decision-logic to enable autonomous motion and interaction.', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: '/Provost.jpeg' },
                     { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b', image: '/Fenris.jpeg' }
                   ]
                 },
