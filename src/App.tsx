@@ -384,7 +384,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Provost Cat Feeder', description: 'The Provost Cat Feeder uses an ultrasonic sensor, Arduino Uno, and servo-driven lid to detect when our campus cat approaches and open automatically. The 3D-printed enclosure protects food from weather and critters, demonstrating practical sensing, actuation, and mechanical control integration.', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: '/Provost.jpeg' },
-                    { name: 'Oscar', description: 'Oscar featured an IMU for level sensing, IR and magnetic limit switches to control arm travel, a camera for vision-based targeting, and a winch-driven arm mechanism. LEDs communicated game piece selections and ramp brake status. This robot demonstrated real-world integration of sensing, actuation, and feedback systems.', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'https://example.com/project3b', image: '/Oscar.jpeg' }
+                    { name: 'Oscar', description: 'Oscar featured an IMU for level sensing, IR and magnetic limit switches to control arm travel, a camera for vision-based targeting, and a winch-driven arm mechanism. LEDs communicated game piece selections and ramp brake status. This robot demonstrated real-world integration of sensing, actuation, and feedback systems.', codeUrl: 'https://github.com/arudlang/PRB_Robotics/tree/master/2023/2023%20Duluth%20V1/DuluthRegionalCodeV1', linkUrl: 'Oscar.pdf', image: '/Oscar.jpeg' }
                   ]
                 },
                 {
