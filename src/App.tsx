@@ -296,7 +296,7 @@ function App() {
                 title: 'Fenris',
                 description: 'A creative project demonstrating design skills and technical implementation. Discuss what you learned.',
                 tags: ['UI/UX', 'Figma', 'React'],
-                image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png'
+                image: '/Fenris.jpeg'
               }
             ].map((project, idx) => (
               // Project card with alternating layout (image left/right)
@@ -402,7 +402,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Provost Cat Feeder', description: 'Description for objective 5, project A', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/Provost/blob/main/Code', linkUrl: '/Provost Cat Feeder (1).pdf', image: '/Provost.jpeg' },
-                    { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
+                    { name: 'Fenris', description: 'Description for objective 5, project B', codeUrl: 'https://github.com/yourusername/project5b', linkUrl: 'https://example.com/project5b', image: '/Fenris.jpeg' }
                   ]
                 },
                 {
