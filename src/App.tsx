@@ -393,7 +393,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'VEXU Climb Bot', description: 'The VEXU Climb Bot used a motor-powered pulley and hook mechanism to lift itself onto the field structure during end-game. This project examined a targeted robotics application — competitive climbing — and evaluated mechanical and strategic design trade-offs', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: '/VEXU Climb Bot.pdf', image: '/Climb Bot.jpeg' },
-                    { name: 'CNC', description: 'Description for objective 4, project B', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/CNC/blob/main/1001.nc', linkUrl: 'https://example.com/project4b', image: '/CNC.jpeg' }
+                    { name: 'CNC', description: 'For this project, I restored and operated a CNC machine that had been damaged in storage. I repaired the wiring, reconfigured the setup, and self-taught the operation workflow, including toolpath creation and machine calibration. Through this experience, I explored CNC technology as a key application within robotics and manufacturing, gaining hands-on insight into automated machining systems and their role in robotic fabrication and prototyping.', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/CNC/blob/main/1001.nc', linkUrl: 'https://example.com/project4b', image: '/CNC.jpeg' }
                   ]
                 },
                 {
