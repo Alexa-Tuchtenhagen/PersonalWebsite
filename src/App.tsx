@@ -410,7 +410,7 @@ function App() {
                   title: 'Implement artificial intelligence and data systems into robotic platforms.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: 'https://example.com/project6a', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
+                    { name: 'Gosh Darn It', description: 'Description for objective 6, project A', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' },
                     { name: 'Robotic Arms', description: 'Description for objective 6, project B', codeUrl: 'https://huggingface.co/docs/lerobot/en/koch', linkUrl: '/Robotic Arms.pdf', image: 'https://firstbenefits.org/wp-content/uploads/2017/10/placeholder.png' }
                   ]
                 }
