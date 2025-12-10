@@ -366,7 +366,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control.', codeUrl: 'https://github.com/huggingface/lerobot', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' },
-                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: '/VEXU Ring Bot V2.pdf', image: '/Ring Bot.jpeg' }
+                    { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: '/VEXU Ring Bot V3.pdf', image: '/Ring Bot.jpeg' }
                   ]
                 },
                 {
@@ -392,7 +392,7 @@ function App() {
                   title: 'Examine and assess a variety of applications within the field of robotics.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'VEXU Climb Bot', description: 'The VEXU Climb Bot used a motor-powered pulley and hook mechanism to lift itself onto the field structure during end-game. This project examined a targeted robotics application — competitive climbing — and evaluated mechanical and strategic design trade-offs', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: '/VEXU Climb Bot V2.pdf', image: '/Climb Bot.jpeg' },
+                    { name: 'VEXU Climb Bot', description: 'The VEXU Climb Bot used a motor-powered pulley and hook mechanism to lift itself onto the field structure during end-game. This project examined a targeted robotics application — competitive climbing — and evaluated mechanical and strategic design trade-offs', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/small%20_boi/src', linkUrl: '/VEXU Climb Bot V3.pdf', image: '/Climb Bot.jpeg' },
                     { name: 'CNC', description: 'For this project, I restored and operated a CNC machine that had been damaged in storage. I repaired the wiring, reconfigured the setup, and self-taught the operation workflow, including toolpath creation and machine calibration. Through this experience, I explored CNC technology as a key application within robotics and manufacturing, gaining hands-on insight into automated machining systems and their role in robotic fabrication and prototyping.', codeUrl: 'https://github.com/Alexa-Tuchtenhagen/CNC/blob/main/1001.nc', linkUrl: '/CNC.pdf', image: '/CNC.jpeg' }
                   ]
                 },
