@@ -365,7 +365,7 @@ function App() {
                   title: 'Design and complete robotic and embedded systems solutions that address real-world situations and challenges.',
                   /*Edit Here*/
                   projects: [
-                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control.', codeUrl: 'https://huggingface.co/docs/lerobot/en/koch', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' },
+                    { name: 'Robotic Arms', description: 'Robotic Arms is a dual-arm robotic system featuring a lead-and-follow design, allowing one arm to mirror the motion of the other. It can be manually taught and recorded to perform tasks, demonstrating a real-world robotic solution focused on intuitive programming and motion control.', codeUrl: 'https://github.com/huggingface/lerobot', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' },
                     { name: 'VEXU Ring Bot', description: 'This VEX U robot was designed to pick up game rings and accurately place them on goal posts. Our team engineered a reliable ring-intake and scoring system, demonstrating a hands-on robotic solution built to address a real competition challenge', codeUrl: 'https://github.com/Stormpiethon/VEX_Stuff/tree/main/vex-vscode-projects/big_boi/src', linkUrl: '/VEXU Ring Bot V2.pdf', image: '/Ring Bot.jpeg' }
                   ]
                 },
@@ -411,7 +411,7 @@ function App() {
                   /*Edit Here*/
                   projects: [
                     { name: 'Gosh Darn It', description: 'Our team built Gosh Darn It, a controller system that tracks professor catch-phrases, records user input, and sends the data to ThingSpeak for analysis and visualization, demonstrating AI and data system integration in a robotic platform.', codeUrl: 'https://github.com/JerrodBolton/Gosh-dang-it', linkUrl: '/Alexas Lab 15.1_ Building an Application (1).pdf', image: '/Gosh Darn it.jpg' },
-                    { name: 'Robotic Arms', description: 'Our team built Robotic Arms, a dual-arm system that mirrors and records arm movements, demonstrating data-driven control and motion replication in an embedded robotics platform.', codeUrl: 'https://huggingface.co/docs/lerobot/en/koch', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' }
+                    { name: 'Robotic Arms', description: 'Our team built Robotic Arms, a dual-arm system that mirrors and records arm movements, demonstrating data-driven control and motion replication in an embedded robotics platform.', codeUrl: 'https://github.com/huggingface/lerobot', linkUrl: '/Robotic Arms.pdf', image: '/Robotic Arms.jpeg' }
                   ]
                 }
               ].map((objective) => (
